@@ -46,7 +46,7 @@ git clone https://github.com/ThSFernandes/Loja_De_Pizza.git
 ---
 <h2 id="requirements">❔&nbsp; Requesistos </h2>
 
-* Java Development Kit (JDK) 8 ou superior.
+* Java Development Kit (JDK) 17 ou superior.
 * Java FX
 
 ---
